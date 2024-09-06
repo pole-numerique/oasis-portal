@@ -70,8 +70,8 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "@lingui/core": "^2.7.2",
-    "@lingui/react": "^2.7.2",
+    "@lingui/core": "^3.0.0",
+    "@lingui/react": "^3.0.0",
     "bootstrap-datepicker": "^1.8.0",
     "bootstrap-sass": "^3.3.7",
     "debounce": "^1.1.0",
